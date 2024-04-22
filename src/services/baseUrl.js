@@ -1,0 +1,1 @@
+export const serverUrl="https://media-player-backend-xvcb.onrender.com"
